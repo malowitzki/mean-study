@@ -1,0 +1,23 @@
+{
+  "name": "mean-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/malowitzki/mean-study.git"
+  },
+  "author": "malowitzki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malowitzki/mean-study/issues"
+  },
+  "homepage": "https://github.com/malowitzki/mean-study#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "monk": "^6.0.0"
+  }
+}
