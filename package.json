@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/malowitzki/mean-study#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "monk": "^6.0.0",
     "nodemon": "^1.11.0"
